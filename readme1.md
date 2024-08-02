@@ -14,7 +14,7 @@
 4. Maintain indentation in code for better understanding.
 
 # Project task and progress
-- [] basic website layout using css and html.
+- [x] basic website layout using css and html.
 - [] Data Extraction & Wrangling.
 - [] Selection of Model.
 - [] Training and Testing model with min 60% accuracy.
@@ -25,6 +25,7 @@
 - **grid** - Parent and main container for all blocks in html code
 - **Side_Bar** - Container for history pillets
 - **Main_Frame** - For converstion with AI tool
+- **Ask_Box_Container** - ask box and execute container
 - **Ask_Box** - Text box for users input
 - **Execute** - Button to execute user input
 - **Histroy_Pillets** - Previous Chat history of user
