@@ -14,7 +14,7 @@
 4. Maintain indentation in code for better understanding.
 
 # Project task and progress
-- [] basic website layout using css and html.
+- [x] basic website layout using css and html.
 - [] Data Extraction & Wrangling.
 - [] Selection of Model.
 - [] Training and Testing model with min 60% accuracy.
