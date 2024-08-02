@@ -14,7 +14,7 @@
 4. Maintain indentation in code for better understanding.
 
 # Project task and progress
-- [x] basic website layout using css and html.
+- [] basic website layout using css and html.
 - [] Data Extraction & Wrangling.
 - [] Selection of Model.
 - [] Training and Testing model with min 60% accuracy.
@@ -29,4 +29,3 @@
 - **Execute** - Button to execute user input
 - **Histroy_Pillets** - Previous Chat history of user
 - **Brand_Logo**- Main Logo of GPTX
-
