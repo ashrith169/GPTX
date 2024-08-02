@@ -21,4 +21,12 @@
 - [] Integrating Model with Webiste using HTML,CSS, Javascript, PHP.
 - [] Beautification of website using Bootstrap or other frameworks.
 
+# Id names and its roles
+- **grid** - Parent and main container for all blocks in html code
+- **Side_Bar** - Container for history pillets
+- **Main_Frame** - For converstion with AI tool
+- **Ask_Box** - Text box for users input
+- **Execute** - Button to execute user input
+- **Histroy_Pillets** - Previous Chat history of user
+- **Brand_Logo**- Main Logo of GPTX
 
