@@ -30,3 +30,15 @@
 - **Execute** - Button to execute user input
 - **Histroy_Pillets** - Previous Chat history of user
 - **Brand_Logo**- Main Logo of GPTX
+
+# Ashrith Project Progress
+- [x] Data extraction from 10th class english book
+- [] Data Cleaning
+- [] Bag of words
+- [] Lementization
+- [] Stemming
+- [] stop words
+- [] Nural network traning
+- [] Exporting to required format for website
+- [] Model integration with chatbox
+- [] Chatbox deployment in production
