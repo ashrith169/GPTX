@@ -1,0 +1,32 @@
+#Ask_Box_Container{
+    width:155vh;
+    position: absolute;
+    padding: 0px;
+    z-index: 2;
+    margin-top: 90vh;
+}
+#Ask_Box{
+    margin-left: 20%;
+    width:50%;
+    outline: none;
+
+   
+}
+#Side_Bar{
+    float: left;
+    width: 20%;
+    height: 100%; 
+    background: #000000;
+    padding: 20px;
+    color: white;
+  
+
+}
+#Main_Frame{
+    float: right;
+    width: 80%;
+    height: 100%; 
+    background: #FFFFFF ;
+    padding: 20px;
+  
+}
